@@ -1,4 +1,4 @@
-Below is the explanation of the task the was given to me by Bestseller.
+Below is the explanation of the task the was given to me as an assignment.
 
 As I was asked to create a pipeline that fetch data from json file, transform it into dimensional models and then load data into data store.
 
